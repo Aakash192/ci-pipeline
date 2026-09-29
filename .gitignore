@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+
+# Test output
+coverage/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Logs and OS files
+npm-debug.log*
+.DS_Store
